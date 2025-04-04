@@ -35,16 +35,19 @@ Fig.3: Oyun
 çarpışarak tuğlaları kırar. Her kırılan tuğla,
 oyuncunun skorunu bir puan artırır. Bu skor, 7
 segment displayde gösterilir.
+
 • Can Sistemi ve LED Göstergesi: Oyuncunun
 başlangıçta 3 canı vardır. Her top paletin altına
 düştüğünde, oyuncunun bir canı azalır. Canlar,
 LED'lerle gösterilir ve her can kaybıyla bir LED
 söner.
+
 • Özel Objeler ve Can Kazanımı: %10 olasılıkla
 düşen özel objeler, oyuncuya bir can kazandırır. Bu
 objeler, kırılan tuğlalardan aşağı doğru hareket eder
 ve alındığında oyuncunun can sayısı artar. Can
 kazanımıyla birlikte LED göstergesi güncellenir.
+
 • Oyun Sonu ve Skor Gösterimi: Oyuncunun 3 canı
 bittiğinde, ekranda son skor görüntülenir ve oyuncu
 ana menüye geri döner.
@@ -57,6 +60,7 @@ Fig.4: Skor, can ledleri, potansiyometre, seven segment display ve butonlar
 • Renk Değişimi: Arka plan ve tuğlaların rengi, ışık
 sensörüne bağlı olarak değişir. Işık açıkken arka
 plan siyah, tuğlalar ise beyaz olur.
+
 • Hız Artışı ve Bölüm Geçişi: Her bölüm
 geçildiğinde, topun hızı %20 artar. Bu şekilde oyun
 zorluk seviyesi artar ve oyuncunun becerisi sınanır.
