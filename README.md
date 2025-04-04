@@ -7,7 +7,7 @@ amaçlamaktadır.
 
 ![image](https://github.com/user-attachments/assets/875256e4-af09-4884-a95e-e48d1d07d892)
 
-Fig.1: Oyun ekranı
+Fig.1: Sistem
 
 
 • Ana Menü ve Seçenekler: Oyun başlangıcında,
@@ -17,11 +17,12 @@ seçenekler arasında gezinebilir ve "Başlat"
 seçeneğini onaylayarak oyuna başlayabilir.
 
 ![image](https://github.com/user-attachments/assets/ec2c003a-3534-4b9a-ae84-2150a66a6069)
+
 Fig.2: Menü
 
 
 • Oyun Başlangıcı: "Başlat" seçeneği seçildiğinde,
-oyun ekranı açılır ve oyun başlar. Oyuncu, paleti
+oyun ekranı açılır ve oyun başlar. Oyuncu, potansiyometre yardımı ile paleti
 sağa sola hareket ettirerek topu oyun alanında
 tutmaya çalışır.
 
@@ -46,6 +47,12 @@ kazanımıyla birlikte LED göstergesi güncellenir.
 • Oyun Sonu ve Skor Gösterimi: Oyuncunun 3 canı
 bittiğinde, ekranda son skor görüntülenir ve oyuncu
 ana menüye geri döner.
+
+![image](https://github.com/user-attachments/assets/8a209a75-49f7-48ac-8fb4-67e29baa9975)
+
+Fig.4: Skor, can ledleri, potansiyometre, seven segment display ve butonlar
+
+
 • Renk Değişimi: Arka plan ve tuğlaların rengi, ışık
 sensörüne bağlı olarak değişir. Işık açıkken arka
 plan siyah, tuğlalar ise beyaz olur.
