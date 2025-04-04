@@ -27,6 +27,7 @@ sağa sola hareket ettirerek topu oyun alanında
 tutmaya çalışır.
 
 ![image](https://github.com/user-attachments/assets/0528764f-b458-48a5-85d2-279e81a49aea)
+
 Fig.3: Oyun
 
 
