@@ -1,7 +1,7 @@
 # BrickBreaker
  Tuğla kırma oyunu Arduino projesi
 
-Bu proje, mikrodenetleyici tabanlı bir ruğla kırma oyun
+Bu proje, mikrodenetleyici tabanlı bir tuğla kırma oyun
 makinesi oluşturmak için çeşitli araçları kullanmayı
 amaçlamaktadır.
 
